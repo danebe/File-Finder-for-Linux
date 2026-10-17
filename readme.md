@@ -10,7 +10,7 @@ A  command-line utility written in C++ to search for files across a Linux file s
 * **Automatic Home Discovery:** Automatically detects and sets the search root to the user's Linux home directory (`$HOME`).
 * **Recursive Traversal:** Recursively scans through folders and sub-folders.
 * **Matching:** Checks user input against both the **full filename** (e.g., `main.cpp`) and the **stem name** (e.g., `main` without its extension).
-* **Error Handling:**The filesystem scanner sits in a `try-catch` block with permission skipping flags to bypass system protected directories without crashing.
+* **Error Handling:** The filesystem scanner sits in a `try-catch` block with permission skipping flags to bypass system protected directories without crashing.
 
 ---
 
