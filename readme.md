@@ -1,4 +1,4 @@
-WORK IN PROGRESS
+WORK IN PROGRESS CHECK BACK LATER
 # CLI File Finder (C++)
 
 A  command-line utility written in C++ to search for files across a Linux file system. 
